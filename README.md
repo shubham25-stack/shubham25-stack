@@ -1,30 +1,7 @@
 <div align="center">
 Hi, I'm Shubham Kumar Thakur 👋
 Full Stack Software Developer • Builder • Problem Solver
-<a href="https://github.com/shubham25-stack">
-  <img src="https://img.shields.io/badge/GitHub-shubham25--stack-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/shubham-thakur">
-  <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shubham.codecreator@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</div>
----
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
-<img src="https://github.com/shubham25-stack.png" width="190" height="190" style="border-radius:50%;" alt="Shubham Kumar Thakur"/>
-Shubham Kumar Thakur
-Full Stack Software Developer
-📍 India
-🎓 B.Tech CSE  
-CGPA: 8.7  
-Expected Graduation: 2027
-🚀 Building scalable, high-performance systems
-</td>
-<td width="70%" valign="top">
+
 👨‍💻 About Me
 ```text
 name      : Shubham Kumar Thakur
@@ -40,19 +17,7 @@ currently : Building real-world production systems
 </td>
 </tr>
 </table>
----
-💼 Experience
-🚀 Software Developer — AMUS Soft
-Remote · Barcelona, Spain · Oct 2025 – Present
-Promoted from Software Development Intern to full-time Software Developer after 6 months based on performance.
-Developing full-stack features using React, Next.js, Node.js, Prisma and PostgreSQL.
-Managing cloud infrastructure with AWS EC2, S3, Load Balancer and Redis.
-Working with security best practices and production-oriented architecture.
-💻 Frontend Developer Intern — Collegetips.in
-Remote · May 2025 – Jul 2025
-Built responsive interfaces using React.
-Integrated APIs and optimized frontend performance.
----
+
 🛠️ Tech Stack
 Frontend
 <p>
@@ -106,15 +71,7 @@ Stack: MERN · Web3
 </td>
 </tr>
 </table>
----
-📊 GitHub
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubham25-stack&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham25-stack&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-<br/><br/>
-<img src="https://streak-stats.demolab.com?user=shubham25-stack&hide_border=true" height="170" alt="GitHub Streak"/>
-</div>
----
+
 🏆 Achievements
 <div align="center">
 Achievement	
